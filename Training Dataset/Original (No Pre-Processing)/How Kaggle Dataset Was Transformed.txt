@@ -1,0 +1,6 @@
+Deleted many entries
+Changed file type to CSV UTF8
+Added headers to columns
+
+Link to dataset:
+https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download
